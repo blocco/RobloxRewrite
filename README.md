@@ -1,4 +1,4 @@
-smart-commands
-==============
+CoreGui Rewrite
+===============
 
-Creating easy to use and understandable commands.  Includes formatted arguments, overloaded parameters, an tons of awesomeness.
+This project contains a rewriting of all of the CoreGui code that Roblox uses, in a format that is more superfluous and logical than what is already there.
